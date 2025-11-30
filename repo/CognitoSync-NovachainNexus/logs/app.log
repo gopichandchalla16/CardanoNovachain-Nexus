@@ -1,0 +1,234 @@
+2025-11-29 21:51:08,944 - root - INFO - Starting application with configuration:
+2025-11-29 21:51:08,945 - root - INFO - PAYMENT_SERVICE_URL: http://localhost:8000
+2025-11-29 21:51:09,132 - crew_definition - INFO - Creating research crew with agents
+2025-11-29 21:51:09,134 - crewai.llm - ERROR - LiteLLM is not available, falling back to LiteLLM
+2025-11-29 21:51:09,135 - crewai.utilities.llm_utils - ERROR - Error instantiating LLM from unknown object type: Fallback to LiteLLM is not available
+2025-11-29 21:53:42,795 - root - INFO - Starting application with configuration:
+2025-11-29 21:53:42,796 - root - INFO - PAYMENT_SERVICE_URL: http://localhost:8000
+2025-11-29 21:56:14,655 - root - INFO - Starting application with configuration:
+2025-11-29 21:56:14,657 - root - INFO - PAYMENT_SERVICE_URL: http://localhost:8000
+2025-11-29 21:57:18,741 - root - INFO - Starting application with configuration:
+2025-11-29 21:57:18,742 - root - INFO - PAYMENT_SERVICE_URL: http://localhost:8000
+2025-11-29 21:57:26,204 - crew_definition - INFO - Creating research crew with agents
+2025-11-29 21:57:26,212 - crew_definition - INFO - Created research and writer agents
+2025-11-29 21:57:26,269 - crew_definition - INFO - Crew setup completed
+2025-11-29 21:57:26,270 - crew_definition - INFO - ResearchCrew initialized
+2025-11-29 21:57:26,333 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-29 21:57:26,556 - root - ERROR - Google Gemini API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-29 21:57:26,566 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-29 21:57:26,769 - root - ERROR - Google Gemini API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-29 21:57:26,777 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-29 21:57:26,908 - root - ERROR - Google Gemini API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-29 21:58:19,317 - root - INFO - Starting application with configuration:
+2025-11-29 21:58:19,317 - root - INFO - PAYMENT_SERVICE_URL: http://localhost:8000
+2025-11-29 21:58:26,404 - crew_definition - INFO - Creating research crew with agents
+2025-11-29 21:58:26,408 - crew_definition - INFO - Created research and writer agents
+2025-11-29 21:58:26,422 - crew_definition - INFO - Crew setup completed
+2025-11-29 21:58:26,422 - crew_definition - INFO - ResearchCrew initialized
+2025-11-29 21:58:26,470 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-29 21:58:26,672 - root - ERROR - Google Gemini API error: 404 - models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-29 21:58:26,681 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-29 21:58:26,871 - root - ERROR - Google Gemini API error: 404 - models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-29 21:58:26,877 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-29 21:58:27,284 - root - ERROR - Google Gemini API error: 404 - models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-29 21:59:15,737 - root - INFO - Starting application with configuration:
+2025-11-29 21:59:15,737 - root - INFO - PAYMENT_SERVICE_URL: http://localhost:8000
+2025-11-29 21:59:52,374 - root - INFO - Starting application with configuration:
+2025-11-29 21:59:52,374 - root - INFO - PAYMENT_SERVICE_URL: http://localhost:8000
+2025-11-29 21:59:59,196 - crew_definition - INFO - Creating research crew with agents
+2025-11-29 21:59:59,200 - crew_definition - INFO - Created research and writer agents
+2025-11-29 21:59:59,218 - crew_definition - INFO - Crew setup completed
+2025-11-29 21:59:59,218 - crew_definition - INFO - ResearchCrew initialized
+2025-11-29 21:59:59,271 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-29 22:00:16,221 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-29 22:13:46,546 - root - INFO - ================================
+2025-11-29 22:13:46,548 - root - INFO - CognitoSync Phase-1 Backend
+2025-11-29 22:13:46,548 - root - INFO - Cardano Hackathon Track-2
+2025-11-29 22:13:46,548 - root - INFO - ================================
+2025-11-29 22:13:46,549 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 22:13:46,555 - root - INFO - 
+======================================================================
+2025-11-29 22:13:46,555 - root - INFO - CognitoSync Phase-1 - Pipeline Test
+2025-11-29 22:13:46,555 - root - INFO - ======================================================================
+2025-11-29 22:13:46,555 - root - INFO - 
+Test URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+2025-11-29 22:13:46,555 - root - INFO - 
+Executing verification pipeline...
+
+2025-11-29 22:13:46,556 - root - INFO - Starting verification pipeline for URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+2025-11-29 22:13:46,556 - root - INFO - Ingesting data from URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+2025-11-29 22:13:50,057 - root - INFO - Successfully extracted 231058 characters from URL
+2025-11-29 22:13:50,062 - root - INFO - Creating text summary
+2025-11-29 22:13:50,164 - root - INFO - Generated summary (303 chars)
+2025-11-29 22:13:50,166 - root - INFO - Analyzing text for bias patterns
+2025-11-29 22:13:50,190 - root - INFO - Detected bias patterns: {'sensationalism': 1, 'emotional_language': 6, 'absolute_statements': 13, 'loaded_language': 27, 'exclusion': 1}, level: 1%
+2025-11-29 22:13:50,190 - root - INFO - Computing reliability score
+2025-11-29 22:13:50,218 - root - INFO - Computed reliability score: 89.5
+2025-11-29 22:13:50,218 - root - INFO - Assigning verification status (reliability: 89.5, bias: 1)
+2025-11-29 22:13:50,219 - root - INFO - Assigned verification status: Verified
+2025-11-29 22:13:50,219 - root - INFO - Generating Cardano-style SHA-256 hash
+2025-11-29 22:13:50,219 - root - INFO - Generated hash: 05185eaf9034cd36757c299cf838ada9e33b8f9f4e2645871188c905fb02d66d
+2025-11-29 22:13:50,219 - root - INFO - Verification pipeline completed successfully
+2025-11-29 22:13:50,220 - root - INFO - 
+======================================================================
+2025-11-29 22:13:50,220 - root - INFO - Verification Results:
+2025-11-29 22:13:50,220 - root - INFO - ======================================================================
+2025-11-29 22:13:50,220 - root - INFO - Summary: Part of a series on Artificial intelligence (AI) Major goals Artificial general intelligence Intelli...
+2025-11-29 22:13:50,220 - root - INFO - Reliability Score: 89.5
+2025-11-29 22:13:50,220 - root - INFO - Bias Level: 1
+2025-11-29 22:13:50,220 - root - INFO - Verification Status: Verified
+2025-11-29 22:13:50,221 - root - INFO - Cardano Hash: 05185eaf9034cd36757c299cf838ada9e33b8f9f4e2645871188c905fb02d66d
+2025-11-29 22:13:50,221 - root - INFO - Bias Analysis: {'sensationalism': 1, 'emotional_language': 6, 'absolute_statements': 13, 'loaded_language': 27, 'exclusion': 1}
+2025-11-29 22:13:50,221 - root - INFO - 
+======================================================================
+
+2025-11-29 22:14:12,153 - root - INFO - ================================
+2025-11-29 22:14:12,154 - root - INFO - CognitoSync Phase-1 Backend
+2025-11-29 22:14:12,154 - root - INFO - Cardano Hackathon Track-2
+2025-11-29 22:14:12,154 - root - INFO - ================================
+2025-11-29 22:14:12,155 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 22:14:12,165 - root - INFO - 
+======================================================================
+2025-11-29 22:14:12,165 - root - INFO - CognitoSync Phase-1 - Pipeline Test
+2025-11-29 22:14:12,166 - root - INFO - ======================================================================
+2025-11-29 22:14:12,166 - root - INFO - 
+Test URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+2025-11-29 22:14:12,166 - root - INFO - 
+Executing verification pipeline...
+
+2025-11-29 22:14:12,166 - root - INFO - Starting verification pipeline for URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+2025-11-29 22:14:12,166 - root - INFO - Ingesting data from URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+2025-11-29 22:14:16,975 - root - INFO - Successfully extracted 231058 characters from URL
+2025-11-29 22:14:16,980 - root - INFO - Creating text summary
+2025-11-29 22:14:17,064 - root - INFO - Generated summary (303 chars)
+2025-11-29 22:14:17,065 - root - INFO - Analyzing text for bias patterns
+2025-11-29 22:14:17,076 - root - INFO - Detected bias patterns: {'sensationalism': 1, 'emotional_language': 6, 'absolute_statements': 13, 'loaded_language': 27, 'exclusion': 1}, level: 1%
+2025-11-29 22:14:17,076 - root - INFO - Computing reliability score
+2025-11-29 22:14:17,094 - root - INFO - Computed reliability score: 89.5
+2025-11-29 22:14:17,094 - root - INFO - Assigning verification status (reliability: 89.5, bias: 1)
+2025-11-29 22:14:17,094 - root - INFO - Assigned verification status: Verified
+2025-11-29 22:14:17,094 - root - INFO - Generating Cardano-style SHA-256 hash
+2025-11-29 22:14:17,095 - root - INFO - Generated hash: 05185eaf9034cd36757c299cf838ada9e33b8f9f4e2645871188c905fb02d66d
+2025-11-29 22:14:17,095 - root - INFO - Verification pipeline completed successfully
+2025-11-29 22:14:17,095 - root - INFO - 
+======================================================================
+2025-11-29 22:14:17,095 - root - INFO - Verification Results:
+2025-11-29 22:14:17,095 - root - INFO - ======================================================================
+2025-11-29 22:14:17,095 - root - INFO - Summary: Part of a series on Artificial intelligence (AI) Major goals Artificial general intelligence Intelli...
+2025-11-29 22:14:17,096 - root - INFO - Reliability Score: 89.5
+2025-11-29 22:14:17,096 - root - INFO - Bias Level: 1
+2025-11-29 22:14:17,096 - root - INFO - Verification Status: Verified
+2025-11-29 22:14:17,096 - root - INFO - Cardano Hash: 05185eaf9034cd36757c299cf838ada9e33b8f9f4e2645871188c905fb02d66d
+2025-11-29 22:14:17,096 - root - INFO - Bias Analysis: {'sensationalism': 1, 'emotional_language': 6, 'absolute_statements': 13, 'loaded_language': 27, 'exclusion': 1}
+2025-11-29 22:14:17,097 - root - INFO - 
+======================================================================
+
+2025-11-29 22:14:32,363 - root - INFO - ================================
+2025-11-29 22:14:32,363 - root - INFO - CognitoSync Phase-1 Backend
+2025-11-29 22:14:32,363 - root - INFO - Cardano Hackathon Track-2
+2025-11-29 22:14:32,364 - root - INFO - ================================
+2025-11-29 22:14:32,364 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 22:14:32,370 - root - INFO - 
+======================================================================
+2025-11-29 22:14:32,370 - root - INFO - CognitoSync Phase-1 - Pipeline Test
+2025-11-29 22:14:32,370 - root - INFO - ======================================================================
+2025-11-29 22:14:32,370 - root - INFO - 
+Test URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+2025-11-29 22:14:32,371 - root - INFO - 
+Executing verification pipeline...
+
+2025-11-29 22:14:32,371 - root - INFO - Starting verification pipeline for URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+2025-11-29 22:14:32,371 - root - INFO - Ingesting data from URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+2025-11-29 22:14:36,269 - root - INFO - Successfully extracted 231058 characters from URL
+2025-11-29 22:14:36,272 - root - INFO - Creating text summary
+2025-11-29 22:14:36,369 - root - INFO - Generated summary (303 chars)
+2025-11-29 22:14:36,371 - root - INFO - Analyzing text for bias patterns
+2025-11-29 22:14:36,390 - root - INFO - Detected bias patterns: {'sensationalism': 1, 'emotional_language': 6, 'absolute_statements': 13, 'loaded_language': 27, 'exclusion': 1}, level: 1%
+2025-11-29 22:14:36,391 - root - INFO - Computing reliability score
+2025-11-29 22:14:36,421 - root - INFO - Computed reliability score: 89.5
+2025-11-29 22:14:36,423 - root - INFO - Assigning verification status (reliability: 89.5, bias: 1)
+2025-11-29 22:14:36,423 - root - INFO - Assigned verification status: Verified
+2025-11-29 22:14:36,424 - root - INFO - Generating Cardano-style SHA-256 hash
+2025-11-29 22:14:36,424 - root - INFO - Generated hash: 05185eaf9034cd36757c299cf838ada9e33b8f9f4e2645871188c905fb02d66d
+2025-11-29 22:14:36,425 - root - INFO - Verification pipeline completed successfully
+2025-11-29 22:14:36,425 - root - INFO - 
+======================================================================
+2025-11-29 22:14:36,425 - root - INFO - Verification Results:
+2025-11-29 22:14:36,425 - root - INFO - ======================================================================
+2025-11-29 22:14:36,426 - root - INFO - Summary: Part of a series on Artificial intelligence (AI) Major goals Artificial general intelligence Intelli...
+2025-11-29 22:14:36,426 - root - INFO - Reliability Score: 89.5
+2025-11-29 22:14:36,426 - root - INFO - Bias Level: 1
+2025-11-29 22:14:36,426 - root - INFO - Verification Status: Verified
+2025-11-29 22:14:36,426 - root - INFO - Cardano Hash: 05185eaf9034cd36757c299cf838ada9e33b8f9f4e2645871188c905fb02d66d
+2025-11-29 22:14:36,426 - root - INFO - Bias Analysis: {'sensationalism': 1, 'emotional_language': 6, 'absolute_statements': 13, 'loaded_language': 27, 'exclusion': 1}
+2025-11-29 22:14:36,426 - root - INFO - 
+======================================================================
+
+2025-11-29 22:15:29,490 - root - INFO - ================================
+2025-11-29 22:15:29,490 - root - INFO - CognitoSync Phase-1 Backend
+2025-11-29 22:15:29,491 - root - INFO - Cardano Hackathon Track-2
+2025-11-29 22:15:29,491 - root - INFO - ================================
+2025-11-29 22:15:29,492 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 22:16:09,517 - root - INFO - ================================
+2025-11-29 22:16:09,517 - root - INFO - CognitoSync Phase-1 Backend
+2025-11-29 22:16:09,518 - root - INFO - Cardano Hackathon Track-2
+2025-11-29 22:16:09,518 - root - INFO - ================================
+2025-11-29 22:16:09,519 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 22:16:09,524 - root - INFO - 
+======================================================================
+2025-11-29 22:16:09,524 - root - INFO - Starting CognitoSync Phase-1 Backend...
+2025-11-29 22:16:09,524 - root - INFO - ======================================================================
+2025-11-29 22:16:09,525 - root - INFO - API Documentation:  http://127.0.0.1:8000/docs
+2025-11-29 22:16:09,525 - root - INFO - Health Check:       http://127.0.0.1:8000/health
+2025-11-29 22:16:09,525 - root - INFO - Verify Endpoint:    POST http://127.0.0.1:8000/verify
+2025-11-29 22:16:09,525 - root - INFO - History Endpoint:   GET http://127.0.0.1:8000/verification-history
+2025-11-29 22:16:09,525 - root - INFO - 
+======================================================================
+
+2025-11-29 22:31:58,375 - root - INFO - ================================
+2025-11-29 22:31:58,377 - root - INFO - CognitoSync Phase-1 Backend
+2025-11-29 22:31:58,377 - root - INFO - Cardano Hackathon Track-2
+2025-11-29 22:31:58,378 - root - INFO - ================================
+2025-11-29 22:31:58,378 - root - INFO - Payment Service URL: http://localhost:3001/api/v1
+2025-11-29 22:31:58,380 - root - INFO - Network: Preprod
+2025-11-29 22:31:58,380 - root - INFO - Payment Amount: 10000000 lovelace
+2025-11-29 22:31:58,381 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 22:32:07,040 - root - INFO - ================================
+2025-11-29 22:32:07,040 - root - INFO - CognitoSync Phase-1 Backend
+2025-11-29 22:32:07,041 - root - INFO - Cardano Hackathon Track-2
+2025-11-29 22:32:07,041 - root - INFO - ================================
+2025-11-29 22:32:07,041 - root - INFO - Payment Service URL: http://localhost:3001/api/v1
+2025-11-29 22:32:07,041 - root - INFO - Network: Preprod
+2025-11-29 22:32:07,041 - root - INFO - Payment Amount: 10000000 lovelace
+2025-11-29 22:32:07,041 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 23:11:50,544 - root - INFO - Network: Preprod
+2025-11-29 23:11:50,546 - root - INFO - IPFS API: http://127.0.0.1:5001
+2025-11-29 23:11:50,546 - root - INFO - Arweave API: https://arweave.net
+2025-11-29 23:11:50,546 - root - INFO - Payment Service: http://localhost:3001/api/v1
+2025-11-29 23:11:50,547 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 23:23:51,141 - root - INFO - Network: Preprod
+2025-11-29 23:23:51,142 - root - INFO - IPFS API: http://127.0.0.1:5001
+2025-11-29 23:23:51,142 - root - INFO - Arweave API: https://arweave.net
+2025-11-29 23:23:51,142 - root - INFO - Payment Service: http://localhost:3001/api/v1
+2025-11-29 23:23:51,143 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 23:26:41,412 - root - INFO - Network: Preprod
+2025-11-29 23:26:41,413 - root - INFO - IPFS API: http://127.0.0.1:5001
+2025-11-29 23:26:41,413 - root - INFO - Arweave API: https://arweave.net
+2025-11-29 23:26:41,413 - root - INFO - Payment Service: http://localhost:3001/api/v1
+2025-11-29 23:26:41,414 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 23:30:30,690 - root - INFO - Network: Preprod
+2025-11-29 23:30:30,691 - root - INFO - IPFS API: http://127.0.0.1:5001
+2025-11-29 23:30:30,691 - root - INFO - Arweave API: https://arweave.net
+2025-11-29 23:30:30,691 - root - INFO - Payment Service: http://localhost:3001/api/v1
+2025-11-29 23:30:30,692 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 23:30:40,007 - root - INFO - Network: Preprod
+2025-11-29 23:30:40,008 - root - INFO - IPFS API: http://127.0.0.1:5001
+2025-11-29 23:30:40,008 - root - INFO - Arweave API: https://arweave.net
+2025-11-29 23:30:40,008 - root - INFO - Payment Service: http://localhost:3001/api/v1
+2025-11-29 23:30:40,009 - root - INFO - CognitoSync VerificationAgent initialized
+2025-11-29 23:57:50,348 - root - INFO - Starting application with configuration:
+2025-11-29 23:57:50,350 - root - INFO - PAYMENT_SERVICE_URL: None
+2025-11-29 23:58:32,853 - root - INFO - Starting application with configuration:
+2025-11-29 23:58:32,854 - root - INFO - PAYMENT_SERVICE_URL: None
+2025-11-29 23:58:42,955 - root - INFO - Starting application with configuration:
+2025-11-29 23:58:42,956 - root - INFO - PAYMENT_SERVICE_URL: None
